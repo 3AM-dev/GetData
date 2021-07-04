@@ -1,0 +1,13 @@
+from pymatgen import MPRester
+m = MPRester()
+data = m.query(criteria={"task_id": "mp-1234"}, properties=["final_energy"])
+print(data)
+
+data = m.query(criteria={"pretty_formula": "Li2O"}, properties=["spacegroup.symbol"])
+
+data = m.query(criteria={"elements": {"$all": ["Fe", "O"]}}, properties=["exp.tags", "icsd_ids"])
+
+criteria = '{"elements":{"$in":["Li", "Na", "K"], "$all": ["O"]}, "nelements":2}' #元素种类为2
+properties ='["formula", "formation_energy_per_atom"]'
+
+上面的例子在:https://github.com/materialsproject/mapidoc

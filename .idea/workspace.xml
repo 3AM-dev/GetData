@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af12e72c-644c-43d0-8e7e-5c996dab9e16" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1q09Bb1t5p7wY1jdjftcAQphcYT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Anaconda/envs" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.infoANDcif2element">
+    <configuration name="get_cif_byID" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_cif_byID.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="infoANDcif2element" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/infoANDcif2element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oqmd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qmpy_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_element" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search_element.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="data" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.infoANDcif2element" />
+        <item itemvalue="Python.search_element" />
+        <item itemvalue="Python.get_cif_byID" />
+        <item itemvalue="Python.oqmd" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af12e72c-644c-43d0-8e7e-5c996dab9e16" name="默认更改列表" comment="" />
+      <created>1616205505884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616205505884</updated>
+      <workItem from="1616205507268" duration="178000" />
+      <workItem from="1616240467591" duration="8392000" />
+      <workItem from="1616285878141" duration="8801000" />
+      <workItem from="1616412185706" duration="9235000" />
+      <workItem from="1616576455804" duration="7321000" />
+      <workItem from="1616673290537" duration="2892000" />
+      <workItem from="1616818057660" duration="11374000" />
+      <workItem from="1617958652993" duration="4766000" />
+      <workItem from="1618227308492" duration="5663000" />
+      <workItem from="1618311048219" duration="10145000" />
+      <workItem from="1618402187538" duration="4984000" />
+      <workItem from="1619315384326" duration="3505000" />
+      <workItem from="1619526643200" duration="471000" />
+      <workItem from="1619530378173" duration="28000" />
+      <workItem from="1620393730712" duration="49000" />
+      <workItem from="1620626762137" duration="10394000" />
+      <workItem from="1620720350467" duration="4562000" />
+      <workItem from="1620725162616" duration="3291000" />
+      <workItem from="1620734122454" duration="7406000" />
+      <workItem from="1620821073150" duration="1328000" />
+      <workItem from="1620968446775" duration="3630000" />
+      <workItem from="1620972107114" duration="6657000" />
+      <workItem from="1621327107719" duration="3265000" />
+      <workItem from="1621582205422" duration="3263000" />
+      <workItem from="1621586662023" duration="1322000" />
+      <workItem from="1621591809232" duration="2060000" />
+      <workItem from="1621732770937" duration="3000" />
+      <workItem from="1622028721278" duration="1310000" />
+      <workItem from="1622030052876" duration="5502000" />
+      <workItem from="1622861988258" duration="7839000" />
+      <workItem from="1623328353270" duration="1555000" />
+      <workItem from="1623376748397" duration="22068000" />
+      <workItem from="1623996864204" duration="6812000" />
+      <workItem from="1624062191219" duration="883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="142" key="#Inspections" timestamp="1621327447344">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="2537" y="215" key="#Inspections/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1618405514480" />
+    <state x="463" y="142" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1621327447344" />
+    <state x="2399" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617958674596">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2399" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1617958674596" />
+    <state x="2782" y="359" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618228579569">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2782" y="359" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1618228579569" />
+    <state x="2664" y="181" key="#data" timestamp="1617968928686">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2664" y="181" key="#data/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1617968928686" />
+    <state x="2664" y="181" key="#data_change(row+col)" timestamp="1617968940522">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2664" y="181" key="#data_change(row+col)/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1617968940522" />
+    <state x="488" y="37" key="#infoANDcif2element" timestamp="1624008872574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="488" y="37" key="#infoANDcif2element/0.0.1536.824@0.0.1536.824" timestamp="1624008872574" />
+    <state x="2664" y="181" key="#qmpy_01" timestamp="1623402335796">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2664" y="181" key="#qmpy_01/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1623402335796" />
+    <state x="488" y="37" key="#search_element" timestamp="1624008754013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="488" y="37" key="#search_element/0.0.1536.824@0.0.1536.824" timestamp="1624008754013" />
+    <state x="261" y="139" width="438" height="494" key="FileChooserDialogImpl" timestamp="1621587747518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="139" key="FileChooserDialogImpl/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1621587747518" />
+    <state x="2652" y="225" key="FileChooserDialogImpl/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1619318890121" />
+    <state x="261" y="139" width="438" height="494" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621327958844" />
+    <state width="1493" height="145" key="GridCell.Tab.0.bottom" timestamp="1624067139486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1131" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1621592773912" />
+    <state width="1514" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1623402577531" />
+    <state width="1493" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624067139486" />
+    <state width="1493" height="145" key="GridCell.Tab.0.center" timestamp="1624067139486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1131" height="194" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1621592773911" />
+    <state width="1514" height="214" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1623402577531" />
+    <state width="1493" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624067139486" />
+    <state width="1493" height="145" key="GridCell.Tab.0.left" timestamp="1624067139486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1131" height="194" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1621592773910" />
+    <state width="1514" height="214" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1623402577531" />
+    <state width="1493" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624067139486" />
+    <state width="1493" height="145" key="GridCell.Tab.0.right" timestamp="1624067139486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1131" height="194" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1621592773911" />
+    <state width="1514" height="214" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1623402577531" />
+    <state width="1493" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624067139486" />
+    <state x="346" y="40" key="SettingsEditor" timestamp="1622862287752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="346" y="40" key="SettingsEditor/0.0.1536.824/1920.0.2048.1112@0.0.1536.824" timestamp="1621587781484" />
+    <state x="2446" y="198" key="SettingsEditor/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1620737593781" />
+    <state x="346" y="40" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622862287752" />
+    <state x="2607" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1623392149901">
+      <screen x="1920" y="0" width="2048" height="1112" />
+    </state>
+    <state x="2607" y="243" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.2048.1112@1920.0.2048.1112" timestamp="1623392149901" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/allInformation_id.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/Anaconda/Lib/site-packages/qmpy_rester/rester.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/data$pahse_diagram_01.coverage" NAME="pahse_diagram_01 Coverage Results" MODIFIED="1622030117762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data$search_element.coverage" NAME="infoANDcif2element Coverage Results" MODIFIED="1624009134850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data$infoANDcif2element.coverage" NAME="infoANDcif2element Coverage Results" MODIFIED="1624062261703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data$qmpy_01.coverage" NAME="qmpy_01 Coverage Results" MODIFIED="1623402133040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data$data.coverage" NAME="data Coverage Results" MODIFIED="1616415962302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data$test.coverage" NAME="test Coverage Results" MODIFIED="1623401963910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data$allInformation_id.coverage" NAME="allInformation_id Coverage Results" MODIFIED="1620976271640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data$phase_diagram_02.coverage" NAME="phase_diagram_02 Coverage Results" MODIFIED="1623397484526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data$get_cif_byID.coverage" NAME="get_cif_byID Coverage Results" MODIFIED="1624000264336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data$learn.coverage" NAME="learn Coverage Results" MODIFIED="1616834002128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/data$1.coverage" NAME="1 Coverage Results" MODIFIED="1616592368162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
